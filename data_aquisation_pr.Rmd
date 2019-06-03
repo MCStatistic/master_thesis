@@ -1,0 +1,14 @@
+---
+title: "Data Aquisation for 'Plenarprotokolle'"
+author: "Marlon Schumacher"
+date: "03.06.2019"
+output: pdf_document
+---
+
+This `.rmd` file contains the code for the data aquisation process for the *Plenarprotokolle* of the German Bundestag.
+
+# Function: Extracting seperate Debates
+```{r}
+pacman::p_load(ggplot2, dplyr, tidyr, stringr, purrr, lubridate)
+```
+
