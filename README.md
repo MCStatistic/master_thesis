@@ -18,11 +18,11 @@ pacman::p_load(dplyr, haven, readr, purrr, ggplot2, pdftools,
 Data
 ----
 
-Source for 19. Bundestag: [German Bundestag: Open Data](https://www.bundestag.de/services/opendata)
+Source for 19. Bundestag: [German Bundestag - Open Data](https://www.bundestag.de/services/opendata)
 
 Source for 14. - 18. Bundestag: [Polmine Project](https://polmine.github.io)
 
-Final .RDS-File for the modelling can be downloaded [here](LINK).
+Final .RDS-File for the modelling can be downloaded [here](https://mega.nz/file/CA1VyRqD#M2S__YVVjaDwLFcl-LV9VSLpsZwmNApP81n4I5XBCaE).
 
 
 
